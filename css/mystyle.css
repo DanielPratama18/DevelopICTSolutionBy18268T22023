@@ -176,3 +176,7 @@ h1:hover {
     padding: 20px;
     width: 70%;
 }
+
+body {
+    background: linear-gradient(to right, #60e78d, #7bb1ee);
+  }
